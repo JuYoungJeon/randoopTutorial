@@ -1,4 +1,4 @@
-package Tester;
+package hello.Tester;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
