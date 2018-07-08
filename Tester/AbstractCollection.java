@@ -1,4 +1,4 @@
-package Tester;
+package hello.Tester;
 
 import java.util.Arrays;
 import java.util.Collection;
