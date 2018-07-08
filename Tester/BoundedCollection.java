@@ -1,4 +1,4 @@
-package Tester;
+package hello.Tester;
 import java.util.Collection;
 
 public interface BoundedCollection<E> extends Collection<E> {
